@@ -1,0 +1,19 @@
+[218,144,36,43,221,236,55,84,54,231,164,250,198,134,37,121,18,129,231,196,53,222,177,130,29,236,167,195,159,101,187,216,109,52,173,179,100,236,139,200,73,175,101,17,252,47,209,183,199,35,15,140,213,215,248,127,214,31,14,225,170,106,236,100]
+
+
+For added security, enter a BIP39 passphrase
+
+NOTE! This passphrase improves security of the recovery seed phrase NOT the
+keypair file itself, which is stored as insecure plain text
+
+BIP39 Passphrase (empty for none): 
+Enter same passphrase again: 
+
+Wrote new keypair to /Users/josh/.config/solana/devnet.json
+==============================================================================
+pubkey: 8MJ2dt7Dyx3z16uPibaRBZT3sGCpF9zDs1b4D53t7mkP
+==============================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+knife marine mobile quit lock curtain lottery odor emerge awkward cheese grief
+==============================================================================
+josh@Joshs-MacBook-Pro-2 ~ % 
