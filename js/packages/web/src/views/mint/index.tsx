@@ -13,7 +13,8 @@ export const MintView = () => {
   return (
     <Layout style={{ margin: 0, marginTop: 30, alignItems: 'center' }}>
       <strong>Mint Centre</strong>
-      <p>Coming Soon</p>
+      <p>A Self Servince Minting Service</p>
+      <p>Coming Soon!</p>
     </Layout>
   );
 };
