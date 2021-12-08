@@ -12,7 +12,8 @@ import {
   AuctionView,
   HomeView,
   StaticPageView,
-  MintView
+  MintView, 
+  SwapView
 } from './views';
 import { AdminView } from './views/admin';
 import { PackView } from './views/pack';
@@ -50,6 +51,7 @@ export function Routes() {
               component={() => <ArtworksView />}
             />
             <Route exact path="/mint" component={() => <MintView />} />
+            <Route exact path="/swap" component={() => <SwapView />} />
             <Route exact path="/art/:id" component={() => <ArtView />} />
             <Route exact path="/artists/:id" component={() => <ArtistView />} />
             <Route exact path="/artists" component={() => <ArtistsView />} />

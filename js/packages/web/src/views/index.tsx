@@ -9,3 +9,4 @@ export { ArtworksView } from './artworks';
 export { AnalyticsView } from './analytics';
 export { StaticPageView } from './staticPage';
 export {MintView} from './mint';
+export {SwapView} from './swap';

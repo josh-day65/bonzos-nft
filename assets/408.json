@@ -1,0 +1,54 @@
+{
+  "name": "BoNZo #408",
+  "symbol": "BNZO",
+  "description": "ThE BoNZo's NFT CoLLeCTiON!",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "https://www.youtube.com/c/hashlipsnft",
+  "edition": 408,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background6"
+    },
+    {
+      "trait_type": "Outline",
+      "value": "Outline1"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skin2"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Special6"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes3"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Hair2"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "ADkskQ4XFEDNdnfYEJA2dZXKuaP3Cj3QT8LLmPVmN22Q",
+        "share": 100
+      }
+    ]
+  }
+}
